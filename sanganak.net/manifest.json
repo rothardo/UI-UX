@@ -1,0 +1,23 @@
+{
+  "name": "BuildMyPC",
+  "short_name": "BuildMyPC",
+  "description": "BuildMyPC is a free PC part picker website which helps you to build custom PC according to your requirement.",
+  "icons": [
+    {
+      "src": "https://ik.imagekit.io/bmpc/tr:h-192/assets/images/favicon/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ik.imagekit.io/bmpc/tr:h-512/assets/images/favicon/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#D5E0EB",
+  "theme_color": "#243F5E",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "./?utm_source=bmpc-pwa",
+  "scope": "/"
+}
